@@ -12,6 +12,7 @@ Un lenguaje de marcas es un conjunto de instrucciones especiales que usamos para
 
 ## Evolución de los Lenguaje de marcas
 - GML
+  1. Es un lenguaje de marcas y ha evolucionado bastante en los años para mejorar su versatilidad. En las primeras versiones era un scripting ba
 - SGML
 
 ## Características de los lenguajes de marcas
