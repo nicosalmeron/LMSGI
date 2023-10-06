@@ -12,13 +12,41 @@ Un lenguaje de marcas es un conjunto de instrucciones especiales que usamos para
 
 ## Evolución de los Lenguaje de marcas
 - GML
-  1. Es un lenguaje de marcas y ha evolucionado bastante en los años para mejorar su versatilidad. En las primeras versiones era un scripting ba
+  1. Es un lenguaje que se usa para mostrar información cartográfica en geografía, por ejemplo.
 - SGML
+  1. Es un lenguaje que sirve como base para hacer otros lenguajes de marcado, algunos ejemplos son HTML y XML
 
 ## Características de los lenguajes de marcas
-Texto
+
+Hay que recalcar que los lenguajes de marcas NO son lenguajes de programación, dicho esto estas son las caracteristicas de los lenguajes de marcas:
+
+1. **Sintaxis Simple**: Utilizan etiquetas o marcadores para definir la estructura y el formato.
+2. **Independencia del Formato**: Separan el contenido de la presentación.
+3. **Legibilidad Humana y Máquina**: Son legibles tanto por humanos como por máquinas.
+4. **Ampliamente Utilizados**: Se utilizan en tecnología de la información.
+
 ## Características y ejemplos de los siguientes lenguajes de marcas:
-- XML
+- XML : XML es muy extensible, esto significa que se pueden crear estructuras de datos personalizadas y poner etiquetas según nuestras necesidades, se usa en sitios web, bases de datos, etc...
+  `<pizzas>
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-sheet"/>
+<pizza nombre="Barbacoa" precio="8">
+<ingrediente nombre="Salsa Barbacoa"/>
+<ingrediente nombre="Mozzarella"/>
+<ingrediente nombre="Pollo"/>
+<ingrediente nombre="Bacon"/>
+<ingrediente nombre="Ternera"/>
+</pizza>
+<pizza nombre="Margarita" precio="6">
+<ingrediente nombre="Tomate"/>
+<ingrediente nombre="Jamón"/>
+<ingrediente nombre="Queso"/>
+</pizza>
+</pizzas>`
+  
 - HTML
 - JSON
 - YAML
