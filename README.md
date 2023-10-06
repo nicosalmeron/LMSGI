@@ -27,7 +27,7 @@ Hay que recalcar que los lenguajes de marcas NO son lenguajes de programación, 
 
 ## Características y ejemplos de los siguientes lenguajes de marcas:
 - XML : XML es muy extensible, esto significa que se pueden crear estructuras de datos personalizadas y poner etiquetas según nuestras necesidades, se usa en sitios web, bases de datos, etc...
-  ```
+  ```ruby
   <pizzas>
     <link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
     <link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
