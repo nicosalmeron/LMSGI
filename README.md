@@ -157,7 +157,7 @@ Los elementos son como las partes de la oración. Se definen en la DTD para espe
 #### Atributos
 Los atributos son como los adjetivos que describen a los elementos. Se definen en la DTD para indicar qué información adicional puede tener un elemento.
 
-### XML Schema:
+## Validación de documentos:
 
 #### Definición
 XML Schema es como un diccionario que define el vocabulario permitido en un documento XML.
