@@ -113,6 +113,9 @@ network:
         <product fechainicio="1-1-1" fechafin="7-7-7">
             <name> Producto 2 </name>
         </product>
+    
+    </products>
+    </root>
 ```
 ## Documentos XML, estructura:
 
@@ -185,7 +188,4 @@ Los tipos de datos son como las categorías de palabras. Especifican qué tipo d
 
 #### Comentarios en XML Schema
 Los comentarios en XML Schema son como las aclaraciones en un diccionario. Ofrecen información adicional sobre la definición de elementos y atributos.
-    
-    </products>
-    </root>
-```
+
