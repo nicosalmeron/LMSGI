@@ -113,7 +113,7 @@ network:
         <product fechainicio="1-1-1" fechafin="7-7-7">
             <name> Producto 2 </name>
         </product>
-
+```
 ## Documentos XML, estructura:
 
 ### Declaración o Prólogo
