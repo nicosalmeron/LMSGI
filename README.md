@@ -217,7 +217,7 @@ Sus características incluyen almacenamiento estructurado, acceso y recuperació
 7. *Adaptabilidad a Cambios:* Ajustes rápidos en estrategias.
 8. *Acceso a Información en Tiempo Real:* Toma de decisiones más rápida.
 
-9. **Ejemplos de CRM Conocidos:**
+**Ejemplos de CRM Conocidos:**
 
 1. *Salesforce:* Ampliamente utilizado y versátil.
 2. *HubSpot CRM:* Enfoque en inbound marketing y ventas.
